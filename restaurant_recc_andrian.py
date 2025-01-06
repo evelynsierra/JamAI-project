@@ -20,7 +20,7 @@ PROJECT_ID = "proj_1e898518d69ddc4fd7f14985"  # Replace with your project ID
 PAT = "jamai_pat_c5f3edb108d1ec7187a0fc545852dabec48fb2d85597e5e3"        # Replace with your SK
 TABLE_TYPE = p.TableType.chat
 OPENER = "Hello! How can I help you today?"
-api_key = "AIzaSyDUVPe0pk0To7ZXgAyV3hYsywHmUE1jd-8"
+api_key = "" #Replace with google api key
 
 
 jamai = JamAI(project_id=PROJECT_ID, token=PAT)
